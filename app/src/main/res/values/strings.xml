@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">StudyCase</string>
+    <string name="text_eatbus">EATBUS</string>
+    <string name="text_abnormal">ABNORMAL</string>
+    <string name="header1">Makan Malam</string>
+    <string name="header3">Menu</string>
+    <string name="header4">Porsi</string>
+    <string name="header5">Harga</string>
+    <string name="header2">dengan Milea</string>
+</resources>
